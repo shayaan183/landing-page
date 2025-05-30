@@ -178,3 +178,15 @@ button {
 .action-button {
     border: #f9faf8 2px solid;
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: #e5e7eb;
+    padding: 15px 25px;
+}
