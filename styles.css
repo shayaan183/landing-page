@@ -87,3 +87,38 @@ button {
     height: 250px;
     text-align: center;
 }
+
+.info-heading {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.info-blocks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.info-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.info-image {
+    width: 180px;
+    height: 180px;
+    border: #3882f6 5px solid;
+    border-radius: 10px;
+}
+
+.info-subheading {
+    width: 180px;
+    text-align: center;
+    font-size: 18px;
+    color: #3a4a5f;
+}
