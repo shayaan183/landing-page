@@ -14,7 +14,6 @@ body {
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
-    width: 100vw;
     justify-content: center;
 }
 
@@ -76,6 +75,12 @@ button {
     margin-top: 10px;
     padding: 5px 25px;
     cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #f9faf8;
+    color: #3882f6;
 }
 
 .hero-image {
@@ -188,5 +193,5 @@ button {
 
 .footer-text {
     color: #e5e7eb;
-    padding: 15px 25px;
+    padding: 25px 25px;
 }
