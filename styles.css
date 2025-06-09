@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-color: #1f2937;
+    background-color: #2b2222;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -26,6 +26,7 @@ body {
 
 .logo {
    font-size: 24px;
+   font-weight: bold;
    color: #f9faf8;
 }
 
@@ -68,7 +69,7 @@ a {
 
 button {
     align-self: flex-start;
-    background-color: #3882f6;
+    background-color: #6f4e37;
     color: #f9faf8;
     font-size: 18px;
     border-radius: 8px;
@@ -80,7 +81,7 @@ button {
 
 button:hover {
     background-color: #f9faf8;
-    color: #3882f6;
+    color: #6f4e37;
 }
 
 .hero-image {
@@ -89,13 +90,14 @@ button:hover {
     align-items: center;
     background-color: #6b7280;
     color: #e5e7eb;
-    width: 700px;
-    height: 250px;
+    width: 800px;
+    height: 400px;
     text-align: center;
+    object-fit: cover;
 }
 
 .info {
-    padding: 100px 200px;
+    padding: 50px 0 100px 0;
 }
 
 .info-heading {
@@ -123,8 +125,9 @@ button:hover {
 .info-image {
     width: 180px;
     height: 180px;
-    border: #3882f6 5px solid;
+    border: #6f4e37 5px solid;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .info-subheading {
@@ -156,13 +159,14 @@ button:hover {
     color: #1f2937;
     font-weight: bold;
     align-self: flex-end;
+    margin-top: 10px;
 }
 
 .action {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #3882f6;
+    background-color: #6f4e37;
     margin: 100px 20%;
     padding: 50px 40px;
     border-radius: 10px;
@@ -185,7 +189,7 @@ button:hover {
 }
 
 .footer {
-    background-color: #1f2937;
+    background-color: #2b2222;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,4 +198,8 @@ button:hover {
 .footer-text {
     color: #e5e7eb;
     padding: 25px 25px;
+}
+
+.footer-link {
+    font-size: 16px;
 }
