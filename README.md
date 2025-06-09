@@ -4,7 +4,7 @@
 
 A landing page project built as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)'s Foundations curriculum.
 
-**Brew & Bean** is a fictional coffee brand website created to practice fundamental HTML and CSS skills. The project focuses on layout, styling, and semantic HTML structure using Flexbox and custom design.
+**Brew & Blends** is a fictional coffee brand website created to practice fundamental HTML and CSS skills. The project focuses on layout, styling, and semantic HTML structure using Flexbox and custom design.
 
 ## Technologies Used
 
