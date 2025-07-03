@@ -29,6 +29,9 @@ A landing page project built as part of [The Odin Project](https://www.theodinpr
 **Coffee bags lineup**
 - Photo by [Hongwei FAN](https://unsplash.com/@yokonoito0512) on [Unsplash](https://unsplash.com/photos/a-display-case-filled-with-lots-of-brown-paper-bags-yiMo8V8U8kQ)
 
+**Favicon Icon**
+- Coffee Beans icon by [Delapouite](https://game-icons.net/1x1/delapouite/coffee-beans.html), from [Game-Icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
 ## Contact
 
 Created by [Shayaan Musthafa](https://github.com/shayaan183).
