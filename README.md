@@ -6,6 +6,11 @@ A landing page project built as part of [The Odin Project](https://www.theodinpr
 
 **Brew & Blends** is a fictional coffee brand website created to practice fundamental HTML and CSS skills. The project focuses on layout, styling, and semantic HTML structure using Flexbox and custom design.
 
+## Preview
+
+![Homepage Screenshot](images/homepage-screenshot.png)
+
+
 ## Technologies Used
 
 - HTML5  
